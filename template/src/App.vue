@@ -23,7 +23,7 @@ export default {
 </script>
 
 <style lang="less">
-@import "../node_modules/iview/src/styles/index.less"
+@import "../node_modules/iview/src/styles/index.less";
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
